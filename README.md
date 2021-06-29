@@ -1,7 +1,7 @@
 ### Hi there 👋 , I am Shekhar Shinde
 
 
-- 🔭 I’m currently working on Ecommerce Ap
+- 🔭 I’m currently working on Android Apps
 - 🌱 I’m currently learning Android Best Practices and DSA
 - 👯 I’m looking to collaborate on Android projects
 - 🤔 I’m looking for help with Android Open source Orgs
