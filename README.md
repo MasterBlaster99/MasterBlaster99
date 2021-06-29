@@ -6,6 +6,7 @@
 - 👯 I’m looking to collaborate on Android projects
 - 🤔 I’m looking for help with Android Open source Orgs
 - 💬 Ask me about Anything
-- 📫 How to reach me : ShekharShinde9990@gmail.com , https://www.linkedin.com/in/shekhar-shinde-8169411a4/ 
+- 📫 How to reach me : ShekharShinde9990@gmail.com 
+-  https://www.linkedin.com/in/shekhar-shinde-8169411a4/ 
 
 
